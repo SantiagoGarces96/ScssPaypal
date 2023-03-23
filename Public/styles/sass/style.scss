@@ -1,0 +1,14 @@
+@import '_header';
+@import '_content';
+@import '_footer';
+@import '_Error';
+@import '_payed';
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
